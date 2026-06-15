@@ -1,0 +1,13 @@
+2026-04-29 20:40:57,809 | INFO | RPA OFX iniciado
+2026-04-29 20:40:57,810 | INFO | Monitorando: C:\tcc_rpa_ofx\entrada
+2026-04-29 20:40:57,810 | INFO | Saída: Excel técnico + PDF gerencial (3 páginas).
+2026-04-29 20:40:57,810 | INFO | Varredura a cada 5s. CTRL+C para encerrar.
+2026-04-29 20:41:10,386 | INFO | Evento (created): ofx_teste_corrompido.ofx
+2026-04-29 20:41:11,387 | INFO | Iniciando processamento: ofx_teste_corrompido.ofx
+2026-04-29 20:41:12,440 | ERROR | Falha de validação OFX: Arquivo OFX sem transações válidas.
+2026-04-29 20:41:12,440 | ERROR | Falha de validação OFX: OFX sem período de extrato identificado.
+2026-04-29 20:41:12,442 | WARNING | Inconsistência OFX: Código do banco não identificado no OFX.
+2026-04-29 20:41:12,444 | INFO | Arquivo movido para erros: ofx_teste_corrompido.ofx
+2026-04-29 20:41:12,445 | INFO | Evento (modified): ofx_teste_corrompido.ofx
+2026-04-29 20:41:13,446 | INFO | Iniciando processamento: ofx_teste_corrompido.ofx
+2026-04-29 20:41:13,447 | WARNING | Arquivo não encontrado: C:\tcc_rpa_ofx\entrada\ofx_teste_corrompido.ofx

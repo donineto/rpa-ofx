@@ -1,0 +1,11 @@
+Conjunto de OFX fictícios para teste de automação
+
+
+ofx_teste_corrompido.ofx
+   Tipo: corrompido / exportação defeituosa simulada
+   Problemas inseridos de propósito:
+   - FITID duplicado
+   - data inválida em uma transação
+   - valor com vírgula decimal em vez de ponto
+   - MEMO com caractere/tag quebrada
+   - fechamento de BANKTRANLIST removido
